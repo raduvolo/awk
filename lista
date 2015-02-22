@@ -1,0 +1,11 @@
+#lista.awk  --> iau o lista cu nume si altele separata prin virgule
+#si o prezint intr-o forma placuta
+
+{
+  print "" 
+  print $1",", $4 " de ani" 
+  print $3
+  print $2
+
+}
+
