@@ -1,5 +1,5 @@
 #lista.awk  --> iau o lista cu nume si altele separata prin virgule
-#si o prezint intr-o forma placuta
+#si o prezinta intr-o forma placuta
 
 {
   print "" 
